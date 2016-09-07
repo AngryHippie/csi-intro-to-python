@@ -86,4 +86,7 @@ print('I just added 55 to the end of the list:', random_list)
 random_list.pop(3)
 print('I just removed the 4th item from the list (index 3)', random_list)
 
+random_list.remove(73)
+
+print('I just removed the number 73 from the list:', random_list)
 
