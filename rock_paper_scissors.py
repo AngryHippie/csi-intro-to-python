@@ -37,6 +37,7 @@ elif computer_weapon in scissors:
 else:
     print('something broke')
 #----------------------------------------------------------------------
+#this is where your fate is told
 
 if (user_weapon in rock) and (computer_weapon in rock):
     print('')
